@@ -1,5 +1,4 @@
-# BiomasBlocos
-Desafio DIO.me: Geração de Biomas em um Mundo de Blocos
+# Desafio de Código: Geração de Biomas em um Mundo de Blocos
 
 # Explicação do Código:
 
